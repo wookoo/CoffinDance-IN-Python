@@ -1,1 +1,2 @@
-새 폴더
+Download CoffinDance.py and run!
+Enjoy It!
